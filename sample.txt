@@ -1,0 +1,6 @@
+Sample text file for Cursor-doc repository.
+
+Created: 2026-05-18
+Purpose: Demonstrate adding and pushing a plain text file via Git.
+
+Hello from sample.txt!
